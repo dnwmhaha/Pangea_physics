@@ -1,0 +1,25 @@
+{
+  "name": "pangea_physics",
+  "version": "1.0.0",
+  "description": "adaptive learning platform",
+  "main": "pangeaphysics.js",
+  "dependencies": {
+    "save": "^2.1.1",
+    "express3-handlebars": "^0.5.2",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnwmhaha/Pangea_physics.git"
+  },
+  "author": "EthanWoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnwmhaha/Pangea_physics/issues"
+  },
+  "homepage": "https://github.com/dnwmhaha/Pangea_physics"
+}
